@@ -1,4 +1,4 @@
-![brainy_pumpkin](/assets/pumpkin_normal.png)
+![brainy_pumpkin](/src/assets/pumpkin_logo.png)
 
 # Brainy Pumpkin for DevFest 17
 
