@@ -1,0 +1,16 @@
+{
+  "firebase_database_url": "https://pi2d2-3f94d.firebaseio.com",
+  "firebase_credentials": {
+    "type": "service_account",
+    "project_id": "devfest17hackathon",
+    "private_key_id": "7765f4321f9f40bccda68098bb1c106b5a65121f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDk0bb3oA0rIQQ6\nKQe7idNNP5BazhUl/ZzuV9X1Tn88HZY7y7J0qjeD/0/PlE4a0zHYAvzmW7xliJHv\nPNqbLbDFFSLfHtTRHa91qCFORLbwFgjjZ7QjIZq0n6RnFsyAhiGUS085Opa1sBRR\nmPAdyCst92sleElpwiPFytgklsTQ3OrM56Nu8SOa7aeyVb+Et3v84ZlG3Ype14SE\nV4f+yUc2rmDhfGmXL2wYBWkV5ntYJXrq3AVWrfUWtzZqy/6eIYr+P2WudDElkxZx\nVj8GB1egw2b+Wk0GlRCroxUSXhf57gLtDV12MPYEmgRRhrFFPZ+OnFIbjyx/Q7VZ\nbDsyVwOpAgMBAAECggEAK6qs1tlDohMpLhs1509wVFnYx8dzyD37pI19HpT2GYgQ\n60Tef76bHRTMS5IjDKH4rV82mZRwodS7+tKbaklAJoA32SoWVXjritHE112sJqmh\n1RntidXIIwejNWwnpzBRuK3dhs+cQryBSCgeTKSuPtWsbChmJClhL8Yb1PGzyiK+\nSOHrlzDkh9rxHxHpwtAvOsg5IDGq3MRwgx7eR1XoXwD8tQUOCBr0QrnpJWgO7zMg\n1ID+kxv5/znQpIaMXkuu/sVUldMQ+OQ/nrMYSp/YITK7Go3ong2AFFBrVl3A/mOe\na5nz3CN8JfpalmUDjbNGm0bIKjI3CLtfztw/KynwnQKBgQDyrskuKz3bnM/XSQn1\nN8Q42bist1JAXwFEHeq5jfaU5IxdzWEcFabYIbgv+sme2TrqCVQVqXXl5/5uhOd5\nsTr3cXloH1ZnLJe4YyQKgkiHZhJL5HfXdTPw75+O8I+zjKyXlp7zsKR/ipM4jRQN\nmn1FVRtAThrrjIou/Wf1/TS2dQKBgQDxYCxWKNxaTVoxX1pBSC1OYr4T+wFTw67I\nHkOim385n1RLd4I8I9JkSUd9QDLC36QYipUfKucCpXC/iiraS1k07ZHK3/Cky/YH\npufJDFT1SZSpx3ikOkbIaE+ntJzdjIETlS50IIlMsffXkVhSi084KxionPNGLyVS\n4A+MUtj55QKBgQCyM97O5DncFd4Y/C0vv+96v4V4bnUbh6fqWP2Pm8tBskHQb4ur\nj8qgUsJpmQKMfn9gc9EmxvUoCZ8vkLBZD+d44/5+kuRjhr8ySrqgbOLNagptaCsI\nL6wgdBT6ZXNgKSBjf9rgnwlsDlnk4NOk2Zi7XK9SHQhvhxfBQZshavlWMQKBgGFb\ni0aNYKPDw3daoIroU+3kAgsJGTXyHdN18Y3q7lwNmfB+mbcsM7ZjoEQy2sajcgq8\nCv3xThBRLrLzRemarrachEuyG9w8sFXRynfbU4FEVoRMgqqrHtXCzS41uXfbLkz5\nxSzt2rNmrTLz2w4gRqm/KEkKVU2fwow099B/sijJAoGALFSoLkpQecYTDSMtciGe\nAdcoA0Cb1zvY0tse6eOlQY+0Q4N75EWOfAGqzpxoSnuWa1b2wDTeVMxo7Ivg5H4V\nulY3VA/SGKxVPsiaWZQ4D+w07dIOF2vuQaOZbYGsoiz6wyy6YFmMphpz6S7FLucH\nds41ioxrLsM37LpPRCyd3vM=\n-----END PRIVATE KEY-----\n",
+    "client_email": "devfest17hackathon@appspot.gserviceaccount.com",
+    "client_id": "113714211113220712399",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/devfest17hackathon%40appspot.gserviceaccount.com"
+  }
+  
+}

@@ -2,13 +2,27 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Devfest17hackathon</title>
+  <title>DevFest17 Hackathon</title>
   <base href="/">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Creepster" rel="stylesheet">
 </head>
 <body>
   <app-root></app-root>
+  <script src="https://www.gstatic.com/firebasejs/4.6.0/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyBAzHQekeyL_5RBLcKy9hQ09uaFBcw1JDg",
+      authDomain: "devfest17hackathon.firebaseapp.com",
+      databaseURL: "https://devfest17hackathon.firebaseio.com",
+      projectId: "devfest17hackathon",
+      storageBucket: "",
+      messagingSenderId: "714033259243"
+    };
+    firebase.initializeApp(config);
+  </script>
 </body>
 </html>
