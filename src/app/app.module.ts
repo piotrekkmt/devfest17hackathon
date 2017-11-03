@@ -11,12 +11,12 @@ import { AngularFireAuthModule } from 'angularfire2/auth';
 import { AngularFirestoreModule } from 'angularfire2/firestore';
 
 export const firebaseConfig = {
-  apiKey: 'AIzaSyBAzHQekeyL_5RBLcKy9hQ09uaFBcw1JDg',
-  authDomain: 'devfest17hackathon.firebaseapp.com',
-  databaseURL: 'https://devfest17hackathon.firebaseio.com',
-  projectId: 'devfest17hackathon',
-  storageBucket: 'devfest17hackathon.appspot.com',
-  messagingSenderId: '714033259243'
+  apiKey: '',
+  authDomain: '',
+  databaseURL: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: ''
 };
 
 @NgModule({
